@@ -183,3 +183,5 @@ ls
 echo C-x C-c> quitting
 cat quitting
 exit
+git checkout
+exit
